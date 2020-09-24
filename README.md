@@ -17,7 +17,7 @@ We're happy to show you our AI by Homeless Squad Store, which queries a Vtex Sto
 - If our Ai didn't understand what you want, it will try to give you the best instructions to make things go well.
  
 
-## Architecture
+### Architecture
 
 
  ![Architecture from Application](https://media.discordapp.net/attachments/748631628665847850/755232872910028800/unknown.png) 
@@ -40,7 +40,7 @@ We're happy to show you our AI by Homeless Squad Store, which queries a Vtex Sto
 
  ![AI Real Interaction Screen](https://uploaddeimagens.com.br/images/002/879/527/full/Captura_de_Tela_2020-09-15_a%CC%80s_00.50.01.png?1600141907) 
 
-## How it was planned
+### How it was planned
 
 Once We've never worked together and also most of us had never worked with Amazon or ChatBots before, We decided to begin this project making the configs from amazon and coding a single file, trying to make it works at all. With all the techs (Html, Css, JavaScript) at the same file. Going slow and keep based on the documentation We were sure it would be a great challenger.
 
