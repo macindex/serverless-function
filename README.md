@@ -92,3 +92,7 @@ We got started configuring Amazons Account and trying to config Amazon Lambda Fu
 Well, this challenge really made We try our best. We spent hours learning how to do stuff in the techs we never used before and We're really into Amazon, Vtex and Team Work, it was't that hard to code this project, since Amazon documentation and Vtex Module from Hiring Coders' Bootcamp really helped the programmers.
 
 At first, We were excited about the possibility to go to the final moment from this bootcamp and cause the time and learn curve, We assume maybe we made some mistakes on the road, but it was necessarry, cause We could see that if we have a bit more experience with these technologies, We would do great things in a bigger way into this project... Learning to code with the techs we used came almost naturally as We needed to implement things, and We're really satisfied about it.
+
+
+
+
