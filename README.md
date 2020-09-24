@@ -4,14 +4,14 @@
 
 A different way to find out some important informations about our Homeless Squad Store and its products :)
 
-## Problem description
+### Problem description
 
 Many customers want to have the independence to buy any time they'd like to. Thinking in that, we found out an innovative way to give them this possibility.
 
 
 We're happy to show you our AI by Homeless Squad Store, which queries a Vtex Store through the AWS Lex bot and shows the responses in real-time for a user. This application should gives the possibility to make our customers more time into our webstore.
 
-## Navigation
+### Navigation
  - When searching for a product you want to know about, just type Enter, after a click on the special area. Once you send a request, our AI will try to help you in the best way!
  
 - If our Ai didn't understand what you want, it will try to give you the best instructions to make things go well.
